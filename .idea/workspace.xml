@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19c19b52-12c5-4d2d-bf24-94c058838021" name="Changes" comment="11th May 2025">
-      <change afterPath="$PROJECT_DIR$/Lab12_Two_Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_Loops/Lab13_Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_Loops/Lab14_display 1 _ 10numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_Loops/Lab15_PrintTable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_Loops/__init__.py" afterDir="false" />
+    <list default="true" id="19c19b52-12c5-4d2d-bf24-94c058838021" name="Changes" comment="16th May 2025">
+      <change afterPath="$PROJECT_DIR$/ex03_OOPs/Lab16_debugging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03_OOPs/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,29 +45,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab02_example.executor": "Run",
-    "Python.Lab03_exampl03.executor": "Run",
-    "Python.Lab04_example.executor": "Run",
-    "Python.Lab05_examples.executor": "Run",
-    "Python.Lab06_example.executor": "Run",
-    "Python.Lab07_example.executor": "Run",
-    "Python.Lab08_exampl.executor": "Run",
-    "Python.Lab09_example.executor": "Run",
-    "Python.Lab10_example.executor": "Run",
-    "Python.Lab12_Two_Sum.executor": "Run",
-    "Python.Lab13_Loops.executor": "Run",
-    "Python.Lab14_display 1 _ 10numbers.executor": "Run",
-    "Python.Lab15_PrintTable.executor": "Run",
-    "Python.python_loop.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab02_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab03_exampl03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab04_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab05_examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab06_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab07_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab08_exampl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab09_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab10_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab12_Two_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab13_Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab14_display 1 _ 10numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab15_PrintTable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_loop.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Lab15_PrintTable">
     <configuration name="Lab10_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python _learning.py" />
@@ -232,12 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1746974327253</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="16th May 2025">
+      <option name="closed" value="true" />
+      <created>1747386306103</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747386306103</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="24th April 2025" />
     <MESSAGE value="11th May 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="11th May 2025" />
+    <MESSAGE value="16th May 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="16th May 2025" />
   </component>
 </project>
